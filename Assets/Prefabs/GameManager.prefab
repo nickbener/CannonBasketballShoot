@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1172752927331754}
+  m_IsPrefabAsset: 1
+--- !u!1 &1172752927331754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4267248274019912}
+  - component: {fileID: 114365277089404082}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4267248274019912
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1172752927331754}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114365277089404082
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1172752927331754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a2310b6c7f018b449a90b3a5ced827a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shooter: {fileID: 0}
+  BgOfRotator: {fileID: 0}
+  BALLtextures:
+  - {fileID: 21300000, guid: 37147ec7d94abda4ebe05d40b5d4c034, type: 3}
+  - {fileID: 21300000, guid: a8ce1aea34ab9534ca00b0d6fa3dd5ed, type: 3}
+  - {fileID: 21300000, guid: 9bef09ca4d581b149b8d73c82d996165, type: 3}
+  - {fileID: 21300000, guid: c1c25146b4994f84c946584dd4e63fa6, type: 3}
+  - {fileID: 21300000, guid: 848e4fc325f640b49aaa0c9d620417bd, type: 3}
+  - {fileID: 21300000, guid: b77f1660fbd40564bbdc20a4ddfa1f8d, type: 3}
+  - {fileID: 21300000, guid: 3c2c8d9550dc80149a6d5e81bce190ef, type: 3}
+  - {fileID: 21300000, guid: 108d9a10790c673428c2f0a4feaf7ad0, type: 3}
+  ballparticleeffects:
+  - {fileID: 1390221720943920, guid: 18869d6dfc3763b4b87671c81f0c84b4, type: 2}
+  - {fileID: 1002528169018090, guid: 495c355ed61b03e49973aedc1d05fb47, type: 2}
+  - {fileID: 1007021010183646, guid: 65839780fe075c544b2050d8dc0443b5, type: 2}
+  - {fileID: 1996369639849550, guid: 5e89724956842ce46a9f38c60e4e9cf1, type: 2}
+  - {fileID: 1045063255341248, guid: 57bd0ee2c4ebf1f408813a9d0ac5843b, type: 2}
+  - {fileID: 1025926033905844, guid: 5a708e202542f8d419002a56fb2c76ac, type: 2}
+  - {fileID: 1173332113181104, guid: 40bd3d09964871b4d94342193e526f05, type: 2}
+  normalEffect: {fileID: 1352120068859402, guid: 2851b3fe0e4d99346b185fd481075673,
+    type: 2}

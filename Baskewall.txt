@@ -1,0 +1,13 @@
+Basketwall
+1.Easy to change Balls by opening Sprites folder in that ball textures.
+2.If you want add more ball just select Gamemanager increase size of ball textures list in inspector.
+3.we can add more  particle effect by duplicating the material in material folder and change material textures.
+4.if you want change background just click on canvas in hierarchy click bg and change Image in inspector.
+5.you can also change position of balls by clicking on Rotating-player ,you can see childs of it.
+6.change basket poles you can find with name of pole_1_left,pole_2_left and so on.
+7.Player controls are written in "Shootballcontainer" Script.
+8.you can also change basket ball net by changing texture of net material in material folder.
+9.you can also change the rotation of Rotating_player object by changing the angle of it in inspector.
+10.if you want change flash effect just open ui folder and open animation strat record and add color to image.
+11.you can also change animation of basket ball pole in pole Script. 
+    

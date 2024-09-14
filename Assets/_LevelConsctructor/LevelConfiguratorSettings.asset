@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec81b6af39fac1429869b620bd18823, type: 3}
+  m_Name: LevelConfiguratorSettings
+  m_EditorClassIdentifier: 
+  CannonPrefab: {fileID: 0}
+  CannonLeftPosition: {x: -1.766, y: -2.1, z: 0}
+  CannonRightPosition: {x: 1.766, y: -2.1, z: 0}
+  BasketFrontPrefab: {fileID: 7061389706306258658, guid: b671f065cdc9a4c42bc19b930a81c4a7,
+    type: 3}
+  BasketSidePrefab: {fileID: 8907732257020258598, guid: 4ce1a48dee348a64ebd1099b8bfc09ec,
+    type: 3}
+  PointPrefab: {fileID: 783125413628159641, guid: 733111d01f9e2d44c93f0882fa00dd6c,
+    type: 3}
+  BasketLeftPosition: {x: -1.55, y: 0, z: 0}
+  BasketRightPosition: {x: 1.55, y: 0, z: 0}
+  BasketFrontPosition: {x: 0, y: 0, z: 0}
+  SpikePrefab: {fileID: 4946247445550144760, guid: 03ca3e79a74b058409de2b80f0bd8358,
+    type: 3}
+  SpikeLeftPosition: {x: -1.8, y: 2, z: 0}
+  SpikeLeftRotation: {x: 0, y: 180, z: 90}
+  SpikeRightPosition: {x: 1.8, y: 2, z: 0}
+  SpikeRightRotation: {x: 0, y: 0, z: 90}
+  SpikeTopPosition: {x: 0, y: 5.5, z: 0}
+  SpikeTopRotation: {x: 0, y: 0, z: 180}
+  StarPrefab: {fileID: 645523195136004561, guid: 877892d4b712097498c3f9ef5f6c8851,
+    type: 3}
+  SpriteAsset: {fileID: 7108339969198208228, guid: 60c0bbd644622a04c915cc45b44655c7,
+    type: 3}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "281015920287",
+    "project_id": "cannon-shooting-basketba-d9049",
+    "firebase_url": "https://cannon-shooting-basketba-d9049-default-rtdb.firebaseio.com/",
+    "storage_bucket": "cannon-shooting-basketba-d9049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281015920287:android:d5726c61487a3a7e08a4aa",
+        "android_client_info": {
+          "package_name": "com.gamezmonster.cannonbasketball"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP_c0k5K-urOMkBkPbysvaukHgnkWStKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

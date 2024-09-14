@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Background
+    m_Hash: 859158400
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: 1
+      m_Hash: 64810935
+      m_Sprite: {fileID: 21300000, guid: eca0cb0f30be9834d83a08325c68b041, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: eca0cb0f30be9834d83a08325c68b041,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Cannon
+    m_Hash: 226745009
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: 1Pivot
+      m_Hash: 631821382
+      m_Sprite: {fileID: 21300000, guid: 337aee9251cc6b64a9728121b86350a5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 337aee9251cc6b64a9728121b86350a5,
+        type: 3}
+    - m_Name: 1Main
+      m_Hash: 608033645
+      m_Sprite: {fileID: 21300000, guid: 1b4b7f57d884a034dbdb8e67efbd72d3, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 1b4b7f57d884a034dbdb8e67efbd72d3,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638470042921179116
+  m_Version: 1
